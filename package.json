@@ -1,7 +1,7 @@
 {
-  "name": "twilio-journey-builder-example", 
+  "name": "vietguys-sms-journey-builder", 
   "version": "1.0.0",
-  "description": "Journey Builder Activity Template",
+  "description": "Vietguys SMS Journey Builder Activity",
   "engines": {
     "node": "6.11.1"
   },
@@ -10,22 +10,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jmaitz/twilio-sfmc.git"
+    "url": "git+https://github.com/jimmycoupletx/vietguys-sfmc.git"
   },
   "keywords": [
-    "twilio",
-    "twilio salesforce marketing cloud",
+    "vietguys",
+    "vietguys salesforce marketing cloud",
     "journey",
     "builder",
     "salesforce marketing cloud",
     "heroku"
   ],
-  "author": "John Maitz",
+  "author": "Nguyen Ngoc Tuan",
   "license": "",
   "bugs": {
-    "url": "https://github.com/jmaitz/twilio-sfmc/issues"
+    "url": "https://github.com/jimmycoupletx/vietguys-sfmc/issues"
   },
-  "homepage": "https://github.com/jmaitz/twilio-sfmc#readme",
+  "homepage": "https://github.com/jimmycoupletx/vietguys-sfmc#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "bower": "^1.8.0",
